@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
 First clone the repository [unstable cache nextjs API](https://github.com/officialrajdeepsingh/unstable-cache-nextjs-API) project.

@@ -5,8 +5,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First clone the repository [unstable cache nextjs API](https://github.com/officialrajdeepsingh/unstable-cache-nextjs-API) project.
 
 ```bash
-# clone the Repo
+# clone the Repo with git
 git clone https://github.com/officialrajdeepsingh/unstable-cache-nextjs-API.git
+# or using gh
+gh repo clone officialrajdeepsingh/unstable-cache-nextjs-API
+
 # change the folder
 cd unstable-cache-nextjs-API
 ```
